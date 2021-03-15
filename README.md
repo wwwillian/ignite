@@ -5,8 +5,7 @@
 ## ✨ Exercícios
 
 Exercícios do novo curso da rocketseat  🚀   Ignite
-- 💻   
-[Node.js](https://nodejs.org)
+- 💻  [Node.js](https://nodejs.org)
   - 01-concepts
   - 02-middlewares
   - 03-validations
